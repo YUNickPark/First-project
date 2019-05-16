@@ -20,7 +20,7 @@ import java.util.*;
 public abstract class Chair implements Comparable<Chair>{
 	
 	
-	
+	fdsfsdfsfsdfsdfsd
 	/**
      * The total number of Chairs created ( or manufactured) using the Chair Class
      * numChairs is a static variable that will be incremented each time a new Chair  object is 
