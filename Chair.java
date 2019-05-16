@@ -21,7 +21,7 @@ public abstract class Chair implements Comparable<Chair>{
 	
 	
 	fdsfsdfsfsdfsdfsd
-	/**
+	/**fggfg
      * The total number of Chairs created ( or manufactured) using the Chair Class
      * numChairs is a static vsdfsdfsdfsdfsedariable that will be incremented each time a new Chair  object is 
      * created and keeps track of the total number of Chair objects that have been created.
