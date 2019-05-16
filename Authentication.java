@@ -17,6 +17,7 @@ import com.google.api.client.http.UrlEncodedContent;
 import com.google.appengine.api.utils.SystemProperty;
 
 public class Authentication {
+<<<<<<< HEAD
 	
 	private static String client_id;
 	private static String code;
@@ -33,7 +34,5 @@ public class Authentication {
 			throws new IOException;
 		}
 	}
-	
-	
 
 }
