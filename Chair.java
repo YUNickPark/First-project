@@ -30,6 +30,7 @@ public abstract class Chair implements Comparable<Chair>{
      */
 	public static int numChairs;
     
+	public static int numNothing;
     
     /**
      * The Id of chair  object 
