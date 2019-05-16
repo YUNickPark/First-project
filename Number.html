@@ -1,0 +1,45 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns = "http://www.w3.org/1999/xhtml"> 
+ <head>
+<link rel="stylesheet" type="text/css" href="Page1.css"/>
+ <title>Albert Hakobyan Page1</title>
+  <script type="text/javascript">
+	  function revealFunc(){
+	  window.alert(document.getElementById('Hid').value);
+	  }
+	  </script>
+ </head>
+ <body>
+ 
+
+      <h1>Input a number. It will be standardized and reversed.</h1>
+
+      <form method="post" action="Authenitcation.java">
+	<table>
+<tbody>
+<tr><td><label>Enter a number (format : 999999.9999) : </label></td> 
+               <td><input name="UN" type="text" size="10"/></td> 
+            </tr>
+<tr><td><label>Standardized number of digits in the decimal part : </label></td> 
+               <td> <select name="ND_DP">
+  		<option value="1">1</option>
+  		<option value="2">2</option>
+  		<option value="3">3</option>
+  			</select>	</td> 
+           </tr>
+</tbody>
+	</table>
+         <p>
+            
+	<input type="submit" class="button" name="submit"/>
+            
+     
+         </p>
+      </form>
+	 
+	  
+ </body>
+</html>
