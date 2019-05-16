@@ -20,10 +20,10 @@ import java.util.*;
 public abstract class Chair implements Comparable<Chair>{
 	
 	
-	
-	/**
+	fdsfsdfsfsdfsdfsd
+	/**fggfg
      * The total number of Chairs created ( or manufactured) using the Chair Class
-     * numChairs is a static variable that will be incremented each time a new Chair  object is 
+     * numChairs is a static vsdfsdfsdfsdfsedariable that will be incremented each time a new Chair  object is 
      * created and keeps track of the total number of Chair objects that have been created.
      * 
      * 
@@ -38,7 +38,7 @@ public abstract class Chair implements Comparable<Chair>{
      * The Id of chair  object 
      * 
      * All instances of a chair are given a unique int id. 
-     * These are to be assigned by the chair constructor. 
+     * These are togdfgdfgdfg be assigned by the chair constructor. 
      * The first instance of a chair  that is created is assigned an id of 0 (zero); 
      * the next is assigned 1.
      * 
@@ -53,7 +53,7 @@ public abstract class Chair implements Comparable<Chair>{
 	 * actual chair cost( or selling price). The actual chair cost will be determined based 
 	 * on the type of the chair and other additional factors
 	 * 
-	 * 
+	 * hgdg dgdfgdfgdfg
 	 * 
 	 */
 	private  double chairManufCost;
